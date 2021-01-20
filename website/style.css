@@ -1,0 +1,45 @@
+.container{
+    border:3px solid grey;
+    height:90vh;
+    background: #2B51CE;
+    background: linear-gradient(135deg, #2B51CE 0%, #4799A4 56%, #D5DCE6 100%);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    font-family: 'Hachi Maru Pop', cursive;
+
+}
+
+
+
+.headline{
+    text-align:center;
+}
+
+input,
+textarea{
+    border:0;
+    outline:none;
+    border-bottom: 3px solid mediumseagreen;
+    background: #2B51Ce;
+    border-radius: 45px;
+    padding:25px;
+
+}
+.holder{
+    text-align:center;
+    margin: 25px 0px 0px 0px;
+  
+  
+ 
+  
+}
+
+
+button{
+    outline:none; 
+    border:none;
+    padding: 16px;
+    border-radius: 16px;
+    background:  #D5DCE6;
+    text-align:center;
+}
+ 
